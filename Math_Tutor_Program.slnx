@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Math_Tutor_Program/Math_Tutor_Program.vcxproj" />
+</Solution>
